@@ -10,5 +10,3 @@ Running the weights file in the code will create a model file, I saved it as mod
 For MRCNN, use this link https://github.com/jacob5412/Object-Detection-Comparison/tree/main/mask-rcnn
 
 Read through this paper for more information on comparing the algorithms : https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00434-w
-
-Youtube video link - https://youtu.be/O7a6QNIt5kc
